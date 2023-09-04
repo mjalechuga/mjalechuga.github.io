@@ -1,5 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
+logo: /assets/img/profile-picture.png
 plugins:
 - jekyll-remote-theme
 title: MJ
-description: Hello :)
+description: Hey 👋🏽
